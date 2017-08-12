@@ -39,7 +39,7 @@ var
     mychar: char
 
 const
-    path = r"/home/fred1599/Bureau/dico.txt"
+    path = r"dico.txt"
 
 let
     f = newFileStream(path, fmRead)
